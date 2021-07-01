@@ -1,5 +1,14 @@
 # 디자인 패턴
 
+- **디자인 패턴 바로가기**
+  - [싱글톤 패턴](./src/com/study/design/singleton)
+  - [어댑터 패턴](./src/com/study/design/adapter)
+  - [프록시 패턴](./src/com/study/design/proxy)
+  - [데코레이터 패턴](./src/com/study/design/decorator)
+  - [옵저버 패턴](./src/com/study/design/observer)
+  - [파사드 패턴](./src/com/study/design/facade)
+  - [전략 패턴](./src/com/study/design/strategy)
+
 ### 디자인 패턴 이란?
 
 자주 사용하는 설계 패턴을 정형화해서 이를 유형별로 가장 최적의 방법으로 개발을 할 수 있도록 정해둔 설계 알고리즘과 유사 하지만, 명확하게 정답이 있는 형태는 아니며, 프로젝트의 상황에 맞추어 적용 가능하다.
