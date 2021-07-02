@@ -175,3 +175,9 @@ Class Adapter와 Object Adapter 코드 방식을 확인 하고 싶다면 아래�
 - [Object Adapter](./differ/SocketObjectAdapterImpl.java)
 - [Check Test Code](./differ/AdapterPatternTest.java)
 
+이 Adapter pattern은 Java의 JDK 안에서 Arrays.asList()나 InputStreamReader(InputStream), OutputStreamWriter(OutputStream) 등에서 사용되었다. 
+
+## 참고
+
+- https://readystory.tistory.com/125
+- https://niceman.tistory.com/141
